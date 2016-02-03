@@ -20,6 +20,6 @@ donut_box2 = ["Choc Sprinkles", "Choc Sprinkles", "double choc cake", "double ch
 
 
 
-#BONUS: Iterate through the hash and print a sentence for each student/donut pair. Example: "James calls dibs on a chocolate cake donut!"
+#BONUS: Iterate through the hash and print a sentence for each student/donut pair. Example: "Vedant calls dibs on a chocolate cake donut!"
 
 
